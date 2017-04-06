@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491495848 source:c:\users\juliemma\documents\programacion 1\tp_1_vallejoemmanuel\funciones.c
+
+1491492231 source:c:\users\juliemma\documents\programacion 1\tp_1_vallejoemmanuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491495848 c:\users\juliemma\documents\programacion 1\tp_1_vallejoemmanuel\funciones.h
+
